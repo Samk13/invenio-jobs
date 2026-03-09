@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version v7.1.0 (released 2026-03-09)
+
+- feat: enable email notification for jobs
+
 Version v7.0.1 (released 2026-02-16)
 
 - fix: updated last_success condition and update_run

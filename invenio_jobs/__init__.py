@@ -11,6 +11,6 @@
 
 from .ext import InvenioJobs
 
-__version__ = "7.0.1"
+__version__ = "7.1.0"
 
 __all__ = ("__version__", "InvenioJobs")
