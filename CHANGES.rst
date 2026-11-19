@@ -8,6 +8,10 @@
 Changes
 =======
 
+Version v12.0.1 (released 2026-11-19)
+
+- fix(template): overwrite correct js bundles
+
 Version v12.0.0 (released 2026-11-10)
 
 - chore(setup): bump dependencies
